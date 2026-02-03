@@ -1,0 +1,7 @@
+{
+  "name": "Legal KMS - Knowledge Dashboard",
+  "description": "A high-end legal knowledge management system dashboard for tracking cross-border advice retention, jurisdiction compliance, and team contributions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
